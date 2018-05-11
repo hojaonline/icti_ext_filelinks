@@ -1,0 +1,18 @@
+{
+    "name": "hojaonline/icti_ext_filelinks",
+    "description": "This plugin allows to modify the number of files allowed on a filelink content element.",
+    "type": "typo3-cms-extension",
+    "version": "1.0.0",
+    "license": "GPL-3.0+",
+    "require": {
+        "typo3/cms-core": ">=6.2.0,<9.0.0"
+    },
+    "authors": [
+        {
+            "name": "Hoja.M.A",
+            "email": "hoja@tnt-graphics.ch",
+            "homepage": "http://www.hoja.in/"
+        }
+    ],
+    "minimum-stability": "dev"
+}

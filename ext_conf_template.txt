@@ -1,0 +1,8 @@
+  # cat=basic; type=int; label=Max allowed items on filelinks content element
+maxitems = 20
+
+  # cat=basic; type=int; label=Size of the select box
+size = 3
+
+  # cat=basic; type=int; label=Max size (kb) of every uploaded file
+maxsize = 10000
